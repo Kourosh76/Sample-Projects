@@ -1,1 +1,1 @@
-This project is one of the data analysis course projects of Quora College.
+This project is one of the data analysis course projects of Quera College.
