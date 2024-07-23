@@ -1,3 +1,3 @@
-# Data-Analysis-Projects
+# Sample-Projects
 
-In this repository, I collect data analysis projects that I have done.
+In this repository, I collect some projects that I have done.
